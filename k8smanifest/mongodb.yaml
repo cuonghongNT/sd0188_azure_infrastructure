@@ -15,8 +15,7 @@ metadata:
 provisioner: kubernetes.io/azure-disk
 parameters:
   skuName: Standard_LRS
-  location: eastus2
-volumeBindingMode: WaitForFirstConsumer
+ volumeBindingMode: WaitForFirstConsumer
 allowVolumeExpansion: true
 ---
 apiVersion: v1
