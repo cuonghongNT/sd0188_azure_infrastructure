@@ -24,7 +24,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: https://github.com/khoann1999/sd4458_azure_infrastructure
+    repoURL: https://github.com/cuonghongNT/sd0188_azure_infrastructure
     targetRevision: HEAD
     path: ./k8smanifest
    
