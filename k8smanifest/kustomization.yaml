@@ -7,6 +7,6 @@ resources:
 - ingress.yml
 images:
 - name: cuonghgcontainerregistry.azurecr.io/backend
-  newTag: "5"
+  newTag: "30"
 - name: cuonghgcontainerregistry.azurecr.io/frontend
-  newTag: "5"
+  newTag: "30"
